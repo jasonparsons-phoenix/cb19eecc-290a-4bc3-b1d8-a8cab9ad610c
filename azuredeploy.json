@@ -1,0 +1,14 @@
+{
+  "thing1": {
+    "child1": "data1",
+    "child2": "data2"
+  },
+  "myLovelyArray": [
+    "weeble1",
+    "weeble2",
+    "weeble3",
+    "wombats",
+    "are",
+    "unpleasant"
+  ]
+}
